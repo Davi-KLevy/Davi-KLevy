@@ -4,7 +4,7 @@
 
 ## Estudante de Engenharia de Software - UnB (5º Semestre)
 
-
+\n\n
 
 
 ## Ferramentas e Tecnologias
@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/davi-levy-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+\n\n
 <div>
 <a href="https://github.com/Davi-KLevy">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-KLevy&layout=compact&langs_count=7&theme=dracula"/>
