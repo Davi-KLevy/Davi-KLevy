@@ -1,4 +1,12 @@
-### Hi there 👋
+# Davi Levy
+## Hello, Devs!!
+
+## Estudante de Engenharia de Software - UnB (5º Semestre)
+
+## Ferramentas e Tecnologias
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 <!--
 **Davi-KLevy/Davi-KLevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
