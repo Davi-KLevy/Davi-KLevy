@@ -1,9 +1,13 @@
 # Davi Levy
 ### Hello, Devs!!
 
-'''python
-print("Estudante de Engenharia de Software - UnB (5º Semestre)")
-'''
+```python
+Class QuemSouEu:
+
+  def __init__(self):
+    self.idade = 22
+    self.curso = "Engenharia de Software - UnB" 
+```
 
 ### Ferramentas e Tecnologias
 
